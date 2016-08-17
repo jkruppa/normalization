@@ -1,7 +1,5 @@
 # Visualisation of different normalization methods
 
-This is an example application for Shiny.
-
 ![Screenshot](normalization.png)
 
 ## Dependencies
